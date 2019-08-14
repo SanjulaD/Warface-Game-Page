@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Business Page</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <div class="row">
+        <div class="logo">
+          <img src="logo.png" alt="logo">
+        </div>
+        <ul class="man_nav">
+            <li class="active"><a href="">HOME</a></li>
+            <li><a href="">SERVICE</a></li>
+            <li><a href="">CONTACT</a></li>
+            <li><a href="">NEWS</a></li>
+            <li><a href="">UPDATES</a></li>
+            <li><a href="">HELP</a></li>
+        </ul>
+      </div>
+      <div class="hero">
+        <h1>Are You Ready?</h1>
+      <div class="button">
+        <a href="" class=" btn button1"> Watch Video</a>
+        <a href="#"class="btn button2"> Explore </a>
+      </div>
+    </div>
+    </header>
+
+  </body>
+</html>
